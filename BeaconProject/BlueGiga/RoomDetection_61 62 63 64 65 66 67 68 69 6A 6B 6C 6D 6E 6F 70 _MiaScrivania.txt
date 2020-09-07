@@ -1,0 +1,11 @@
+30,70
+Raggio <= 2 metri dall'antenna
+71,77
+Porta che separa la stanza dal corridoio OPPURE parete opposta alla mia scrivania 
+78,83
+Postazione Simone ( vicino la finestra ) OPPURE porta che separa la stanza dal main
+
+
+
+
+

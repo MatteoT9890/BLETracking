@@ -1,0 +1,151 @@
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-62
+
+
+
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-68
+
+
+
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-71
+
+
+
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-73
+
+
+
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-73
+
+
+
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-73
+
+
+
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-75
+
+
+
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-60
+
+
+
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-57
+
+
+
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-73
+
+
+
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-76
+
+
+
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-76
+
+
+
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 _MiaScrivania
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-84
+
+
+
+TESTING INFO:
+	UUID:61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 
+	Altezza trasmettitore:0.0
+	Altezza ricevitore:0.64
+	Descrizione:Corridoio di fornte al bagno
+	Separati da parete:true
+
+	Distanza(metri):-1.0	RSSI associato:-90
